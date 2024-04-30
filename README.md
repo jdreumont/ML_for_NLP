@@ -1,5 +1,6 @@
 # ML for NLP - ENSAE Projet 2024
 **Prédiction du sexe à partir des données personnelles.**
+
 Dans certains recensements, le sexe n’est pas renseigné. C’est pourtant une données nécessaire pour l’analyse des ménages et pour effectuer le suivi des individus entre les différents recensements.
 
 Tache :
